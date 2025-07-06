@@ -20,13 +20,6 @@
 
 ---
 
-## 📦 Installation
-
-### From Installer
-1. Download and run the latest release `.exe` from [Releases](https://github.com/YOUR_USERNAME/AcademicPDFUnlocker/releases)
-2. Follow the installer prompts
-3. Use the desktop shortcut or Start Menu entry
-
 ### From Source
 1. Clone this repo:
    ```bash
