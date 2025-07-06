@@ -14,9 +14,6 @@
 - 📥 Automatic fallback to open access and Sci-Hub mirrors
 - 🧠 Automatically detects column headers
 - 💬 Output log viewable in-app
-- 📊 Progress bar for batch downloads
-- 🖼️ Custom app icon
-- ✔️ Digitally signed EXE installer
 
 ---
 
